@@ -1,0 +1,14 @@
+site_name: Test
+site_url: https://GeorgiiChanturiia.github.io/TestForDocs
+repo_url: https://github.com/GeorgiiChanturiia/TestForDocs
+
+theme: 
+  name: material
+  language: ru 
+
+nav:
+  - Главная: index.md
+  - Доп.глава:  intro.md
+  - Вложенная глава: 
+    - Глава 1.1: part1.md
+    
